@@ -72,13 +72,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ## Dataset  
 The dataset (`onlinefraud.csv`) contains transaction details, including `type`, `amount`, `isFraud`, and other relevant features.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
+## Acknowledgments    
+- Dataset source (Kaggle) - https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection.  
 
-## Acknowledgments  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/): Implementation reference.  
-- Dataset source (if applicable).  
-
---- 
-
-You can replace placeholders like `yourusername` or dataset source details with the actual information. Let me know if you'd like further customization!
